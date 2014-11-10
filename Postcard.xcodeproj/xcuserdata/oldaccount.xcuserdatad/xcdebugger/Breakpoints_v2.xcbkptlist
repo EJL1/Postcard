@@ -15,36 +15,6 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "5"
             endingLineNumber = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Postcard.ViewController.__deallocating_deinit"
-                  moduleName = "Postcard"
-                  urlString = "file:///Users/oldaccount/Bitfountain/Postcard/Postcard/ViewController.swift"
-                  timestampString = "437271687.635801"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "@objc Postcard.ViewController.__ivar_destroyer"
-                  moduleName = "Postcard"
-                  urlString = "file:///Users/oldaccount/Bitfountain/Postcard/Postcard/ViewController.swift"
-                  timestampString = "437271687.636099"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "12">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -59,36 +29,6 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1"
             endingLineNumber = "1">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Postcard.ViewController.__deallocating_deinit"
-                  moduleName = "Postcard"
-                  urlString = "file:///Users/oldaccount/Bitfountain/Postcard/Postcard/ViewController.swift"
-                  timestampString = "437271687.637569"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "@objc Postcard.ViewController.__ivar_destroyer"
-                  moduleName = "Postcard"
-                  urlString = "file:///Users/oldaccount/Bitfountain/Postcard/Postcard/ViewController.swift"
-                  timestampString = "437271687.637787"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "12">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
